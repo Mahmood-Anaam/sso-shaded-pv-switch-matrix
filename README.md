@@ -27,7 +27,5 @@ This repository contains the implementation of a Salp Swarm Optimizer (SSO) to o
 - **Power Enhancement Percentage**: Quantifies the improvement in power output.
 - **Convergence Curve**: Visualization of the optimization progress over iterations.
 
-## Requirements
-- MATLAB R2019a or later.
 
 
