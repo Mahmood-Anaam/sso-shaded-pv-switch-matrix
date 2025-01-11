@@ -14,12 +14,12 @@ This repository contains the implementation of a Salp Swarm Optimizer (SSO) to o
 ## How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/sso-shaded-pv-switch-matrix.git
+   git clone https://github.com/Mahmood-Anaam/sso-shaded-pv-switch-matrix.git
    ```
 2. Open MATLAB and navigate to the project directory.
 3. Run the main script:
    ```matlab
-   main
+   main.m
    ```
 
 ## Output
